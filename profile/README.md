@@ -1,5 +1,6 @@
 # Low Poly Studio
-![image](https://user-images.githubusercontent.com/97303986/219519000-e602483f-cbe2-44bc-8538-487afb8a7b98.png)
+![low-poly-studio-shiny-background](https://github.com/user-attachments/assets/3f4df364-ec05-46bf-8120-57046be80467)
+
 
 This github is mostly used for my audio and artistic projects, for my proffessional work, please see:
 - [ImogenWren - Github](https://github.com/ImogenWren) <br>
