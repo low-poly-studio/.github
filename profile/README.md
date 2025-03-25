@@ -1,4 +1,4 @@
-# Imogen Wren Studios
+# Low Poly Studio
 ![image](https://user-images.githubusercontent.com/97303986/219519000-e602483f-cbe2-44bc-8538-487afb8a7b98.png)
 
 This github is mostly used for my audio and artistic projects, for my proffessional work, please see:
