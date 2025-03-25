@@ -8,22 +8,29 @@ And for Educational and Personal Embedded Systems Projects, please look at:
 - [Pan Galactic Tech -  Github](https://github.com/PanGalacticTech)
 
 ## About Me
-- Name: Imogen Wren. <br>
+- Name: Imogen Pigeon. <br>
 - Pronouns: She/Her. <br>
+
+
+
+## About Low Poly Studio
+
+Low Poly is a nod to my ethos as a designer, I try to create things that are engaging, aesthetic but don't cost an arm and a leg to buy or even build for yourself. I aim to make as much of my work available open source as possible.
+
+This organisation is to collate and collect all of the audio equipment development aimed at musicans, guitarists, bass players and performers. It is mostly going to be a source for build documents, design documents and will act as a record for the open source audio & lighting related projects I work on in my spare time. It may also include repos relating to DAWs and music orientated software. 
+
+I previously designed, built and released stompboxes under the **Pan Galactic** brand, however I have decided to make Pan Galactic a source of educational content regarded technology and embedded systems, and move my more artistic side projects to Low Poly Studio
+
+## History
 
 Since I started playing guitar at age 14 I have been blending my love of electronics with my love of music. I spent a total of 3 years Studying Music Technology, first at collage, and then for one year at University before dropping out to start work in the Outside Broadcast Industry.
 
 It wasn't untill a few years later that I would rekindle my passion for music, and having gained more direct electronics skills through my work on specialist camera systems, I started building Stompbox Kits (shoutout to https://FuzzDog.co.uk) who got me started down this road. 
 I soon progressed to designing my own PCBs, then introducing microcontrollers and digital embedded systems into my analog audio world. This eventually lead me to my current role as Specialist Technical Officer for Embedded Systems at The University of Edinburgh. So I really have to be thankful for music pushing me towards my dream career, even if it is not directly associated with music any longer!
 
-I currently play Bass in the band "Dear Srrrz" and I am loving the thriving Riot Girl scene here in Edinburgh.
+I play Drums, Guitar and Bass in various bands in the Thriving Edinburgh live music scene
 
 
-## About Imogen Wren Studios
-
-This organisation is to collate and collect all of the audio equipment development aimed at musicans, guitarists, bass players and performers. It is mostly going to be a source for build documents, design documents and will act as a record for the open source audio & lighting related projects I work on in my spare time. It may also include repos relating to DAWs and music orientated software. 
-
-I previously designed, built and released stompboxes under the **Pan Galactic** brand, however I have decided to make Pan Galactic a source of educational content regarded technology and embedded systems, and move my more artistic side projects to Imogen Wren Studios.
 
 
 
