@@ -1,5 +1,6 @@
 # Low Poly Studio
-![low-poly-studio-shiny-background](https://github.com/user-attachments/assets/3f4df364-ec05-46bf-8120-57046be80467)
+![low-poly-studio-shiny-background-bitrate](https://github.com/user-attachments/assets/58ecea33-3a01-4aa2-b939-f6a3bb39e907)
+
 
 
 This github is mostly used for my audio and artistic projects, for my proffessional work, please see:
